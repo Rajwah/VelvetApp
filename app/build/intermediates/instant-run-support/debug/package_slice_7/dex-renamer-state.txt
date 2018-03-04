@@ -1,0 +1,4 @@
+#Sun Mar 04 21:19:33 AST 2018
+base.0=/Users/rajwahalqurashi/Downloads/VelvetApp /app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

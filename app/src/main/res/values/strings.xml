@@ -1,0 +1,131 @@
+<resources>
+
+    <string name="app_name">VelvetApp</string>
+    <string name="Orange">Orange</string>
+    <string name="purple">Purple</string>
+    <string name="Pink">Pink</string>
+    <string name="Women">Women</string>
+    <string name="Men">Men</string>
+    <string name="Category">Category</string>
+    <string name="Dresses">Dresses</string>
+    <string name="Suits">Suits</string>
+    <string name="Skirts">Skirts</string>
+    <string name="Shirts">Shirts</string>
+    <string name="Accessories">Accessories</string>
+    <string name="Bags">Bags</string>
+    <string name="Shose">Shose</string>
+    <string name="Size">Size</string>
+    <string name="XS">XS</string>
+    <string name="S">S</string>
+    <string name="M">M</string>
+    <string name="XL">XL</string>
+    <string name="L">L</string>
+    <string name="XXL">XXL</string>
+    <string name="Color">Color</string>
+    <string name="Red">Red</string>
+    <string name="Blue">Blue</string>
+    <string name="Yellow">Yellow</string>
+    <string name="Black">Black</string>
+    <string name="Green">Green</string>
+    <string name="White">White</string>
+    <string name="Chanel">Chanel</string>
+    <string name="Dior">Dior</string>
+    <string name="Fendi">Fendi</string>
+    <string name="Louis_vuitton">Louis vuitton</string>
+    <string name="Hermes">Hermes</string>
+    <string name="Burberry">Burberry</string>
+    <string name="Gucci">Gucci</string>
+    <string name="Price">Price</string>
+    <string name="Brand">Brand</string>
+    <string name="action_settings">action_settings</string>
+    <string name="Cear">Clear</string>
+    <string name="Gender">Gender</string>
+    <string name="Apply">Apply</string>
+    <string name="enter_brand_name">Enter brand name</string>
+    <string name="Type_the_story_behind_the_item_here">Type the story behind the item here</string>
+    <string name="Enter_the_retail_price">Enter the retail price</string>
+    <string name="Select_category">Select category</string>
+    <string name="enter_the_year_purchased">Enter the year purchased</string>
+    <string name="give_this_item_a_title">Give this item a title</string>
+    <string name="enter_gender">Enter gender</string>
+    <string name="select_color">Select Color</string>
+    <string name="select_size">Select size</string>
+    <string name="submit">Submit</string>
+    <string name="love">Love</string>
+    <string name="lend">Lend</string>
+    <string name="account">Account</string>
+    <string name="orders">Orders</string>
+    <string name="bag">Bag</string>
+    <string name="filter">Filter</string>
+    <string name="edit">Edit</string>
+    <string name="todo">TODO</string>
+
+
+    -
+    <string-array name="category_list">
+
+        <item>Shirts</item>
+
+        <item>Skirts</item>
+
+        <item>Dresses</item>
+
+        <item>Suits</item>
+
+        <item>Shoes</item>
+
+        <item>Bags</item>
+
+        <item>Accessories</item>
+
+    </string-array>
+
+
+    -
+    <string-array name="size_list">
+
+        <item>XS</item>
+
+        <item>S</item>
+
+        <item>M</item>
+
+        <item>L</item>
+
+        <item>XL</item>
+
+        <item>XXL</item>
+
+    </string-array>
+
+
+    -
+    <string-array name="color_list">
+
+        <item>Red</item>
+
+        <item>Yellow</item>
+
+        <item>Orange</item>
+
+        <item>Blue</item>
+
+        <item>Pink</item>
+
+        <item>Black</item>
+
+        <item>Purple</item>
+
+        <item>Gray</item>
+
+        <item>White</item>
+
+        <item>Silver</item>
+
+        <item>Gold</item>
+
+        <item>Other</item>
+
+    </string-array>
+
+</resources>
